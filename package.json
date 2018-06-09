@@ -1,0 +1,27 @@
+{
+  "name": "game_rant_scraper",
+  "version": "1.0.0",
+  "description": "MongoDB and mongoose scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "testMe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baldir407/Game_Rant_Scraper.git"
+  },
+  "author": "Jose a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baldir407/Game_Rant_Scraper/issues"
+  },
+  "homepage": "https://github.com/Baldir407/Game_Rant_Scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.1.4",
+    "request": "^2.87.0"
+  }
+}
